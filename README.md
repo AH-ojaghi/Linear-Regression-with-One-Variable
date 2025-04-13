@@ -23,6 +23,7 @@ To understand and implement the basic concepts of linear regression, gradient de
 
 - Python 3.x
 - NumPy
+- Scikit learn
 - Matplotlib
 - Jupyter Notebook
 
